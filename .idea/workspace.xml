@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b892a3b-69db-4e76-ad4c-e84bc58efdbd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videoXMLQueries/basicSelectQuery.xq" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basicSelectQuery.xq" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/basicQuery.xq" afterPath="$PROJECT_DIR$/videoXMLQueries/basicQuery.xq" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/functionExternalQuery.xq" afterPath="$PROJECT_DIR$/videoXMLQueries/functionExternalQuery.xq" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/importXMLQuery.xq" afterPath="$PROJECT_DIR$/inlineQuery.xq" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/titleOrderBy.xq" afterPath="$PROJECT_DIR$/priceQuery.xq" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -80,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inlineQuery.xq" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inlineQuery.xq" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inlineQuery.xq">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -122,9 +116,9 @@
       <list>
         <option value="$PROJECT_DIR$/titleQuety.xq" />
         <option value="$PROJECT_DIR$/books.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/videoXMLQueries/basicSelectQuery.xq" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -739,12 +733,12 @@
       <workItem from="1522874961324" duration="2283000" />
       <workItem from="1523116596580" duration="600000" />
       <workItem from="1523118462709" duration="17000" />
-      <workItem from="1523120179772" duration="163000" />
+      <workItem from="1523120179772" duration="680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3771000" />
+    <option name="totallyTimeSpent" value="4288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -1094,14 +1088,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1114,6 +1100,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
