@@ -8,8 +8,8 @@ Introduction, Content, applications and list of Tutorials : <a href="https://www
 
 Basic Documentation : <a href="https://www.w3schools.com/xml/xquery_intro.asp" target="_blank">W3Schools</a>
 
-Tutorial links I followed : <a href="http://www.stylusstudio.com/xquery-primer.html">Part 1</a> and <a href="http://www.stylusstudio.com/xquery-flwor.html">Part 2</a>
+Tutorial links I followed : <a href="http://www.stylusstudio.com/xquery-primer.html" target="_blank">Part 1</a> and <a href="http://www.stylusstudio.com/xquery-flwor.html">Part 2</a>
 
-Mailing List Search Engine (Used XML and Xquery) : <a href="https://markmail.org">markmail.org</a>
+Mailing List Search Engine (Used XML and Xquery) : <a href="https://markmail.org" target="_blank">markmail.org</a>
 
-<b>To run these queries, you can use <a href="http://basex.org/">Basex</a>, a XML framework and Xquery Engine(Xquery 3.1 Supported). It is available for all the major OS.</b>
+<b>To run these queries, you can use <a href="http://basex.org/" target="_blank">Basex</a>, a XML framework and Xquery Engine(Xquery 3.1 Supported). It is available for all the major OS.</b>
